@@ -1,5 +1,5 @@
 # tracepy
-tracepy is a traceroute tool made in python and ```scapy``` <br/> 
+tracepy is a traceroute tool made in python and the ```scapy``` library <br/> 
 usage with ip address: 
 	
 	python tracepy.py <ip>
